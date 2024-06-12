@@ -1,9 +1,9 @@
 nginx:latest
 mysql:latest
-k8s.gcr.io/kube-apiserver:v1.30.0
-k8s.gcr.io/kube-controller-manager:v1.30.0
-k8s.gcr.io/kube-scheduler:v1.30.0
-k8s.gcr.io/kube-proxy:v1.30.0
-k8s.gcr.io/etcd:3.5.9-0
-k8s.gcr.io/coredns:v1.10.1 
-k8s.gcr.io/pause:3.9
+registry.k8s.io/kube-apiserver:v1.30.0
+registry.k8s.io/kube-controller-manager:v1.30.0
+registry.k8s.io/kube-scheduler:v1.30.0
+registry.k8s.io/kube-proxy:v1.30.0
+registry.k8s.i/etcd:3.5.9-0
+registry.k8s.i/coredns:v1.10.1 
+registry.k8s.i/pause:3.9
