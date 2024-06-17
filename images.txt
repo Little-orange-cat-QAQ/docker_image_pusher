@@ -1,1 +1,4 @@
-1panel/maxkb
+node:18.20.3-buster
+node:16.20.2-buster
+node:14.21.3-buster
+nacos/nacos-server:2.3.2
