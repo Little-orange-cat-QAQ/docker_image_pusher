@@ -1,1 +1,1 @@
-mysql:5.7
+anjia0532/docker.velero.velero-restore-helper:v1.13.2
